@@ -819,6 +819,16 @@ background:rgba(255,255,255,.1);
 
 }
 
+.portfolio-credit{
+    margin-top:20px;
+    font-size:.9rem;
+    color:#888;
+}
+
+.portfolio-credit a{
+    color:var(--accent);
+}
+
 .copyright{
 
 text-align:center;
